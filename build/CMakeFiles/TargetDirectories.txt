@@ -1,0 +1,3 @@
+/Users/kmehta/Desktop/Projects/RingBuffer/build/CMakeFiles/RingBuffer.dir
+/Users/kmehta/Desktop/Projects/RingBuffer/build/CMakeFiles/edit_cache.dir
+/Users/kmehta/Desktop/Projects/RingBuffer/build/CMakeFiles/rebuild_cache.dir

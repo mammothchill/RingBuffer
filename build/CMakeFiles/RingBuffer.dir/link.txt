@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRingBuffer.a CMakeFiles/RingBuffer.dir/src/ring.c.o CMakeFiles/RingBuffer.dir/src/utils.c.o
+/usr/bin/ranlib libRingBuffer.a
